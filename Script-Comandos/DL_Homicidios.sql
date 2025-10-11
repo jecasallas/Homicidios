@@ -1,0 +1,10 @@
+CREATE TABLE DataLake.dbo.DL_Homicidios (
+	FECHA_HECHO date NULL,
+	COD_DEPTO tinyint NULL,
+	DEPARTAMENTO varchar(100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	COD_MUNI int NULL,
+	MUNICIPIO varchar(100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	ZONA varchar(50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	SEXO varchar(50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	CANTIDAD int NULL
+);
