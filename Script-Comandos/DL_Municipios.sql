@@ -7,4 +7,5 @@ CREATE TABLE DataLake.dbo.DL_Municipios (
 	LATITUD float NULL,
 	LONGITUD float NULL,
 	Geo_Municipio varchar(100) NULL
-);
+); 
+
