@@ -1,10 +1,10 @@
 # Homicidios Dashboard
 
-**Mapas**: Los dos mapas muestran diferentes informacion:
-*Mapa Mustra la ubicacion de los departamentos por su latitud y longitud ademas la cantidad de homicidios por genero.
-*Mapa coroplético en este se muestra en total de homicidios por departamento y municipio
-
 **Segmentación de datos de Departamentos**: Aqui se Lista los 33 Departamentos en forma vertical
+
+**Mapa**: Mustra la ubicacion de los departamentos por su latitud y longitud ademas la cantidad de homicidios por genero.
+
+**Mapa coroplético**:Se muestra en total de homicidios por departamento y municipio
 
 **Segmentación de datos de los Días de la Semana**: Aqui se muestra los 7 dias de la semana en Mosaico 
 
